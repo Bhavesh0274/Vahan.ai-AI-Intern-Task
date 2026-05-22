@@ -1,0 +1,21 @@
+filename,locality,reference,condition,language
+01_koramangala_quiet_hinglish.wav,Koramangala,Haan bhaiya main Koramangala mein rehta hoon,quiet,hinglish
+02_indiranagar_noisy_hinglish.wav,Indiranagar,Indiranagar ke paas hi hai mera ghar,noisy,hinglish
+03_whitefield_phone_english.wav,Whitefield,Yeah I stay in Whitefield near the metro,phone,english
+04_electronic_city_quiet_hinglish.wav,Electronic City,Electronic City Phase 1 mein job karta hoon,quiet,hinglish
+05_marathahalli_rushed_hinglish.wav,Marathahalli, Marathahalli bus stop ke paas,rushed,hinglish
+06_jayanagar_quiet_kannada.wav,Jayanagar,Naanu Jayanagar alli iddini,quiet,kannada
+07_rajajinagar_noisy_hindi.wav,Rajajinagar,Rajajinagar mein mera ek dost rehta hai,noisy,hindi
+08_hebbal_phone_hinglish.wav,Hebbal,Hebbal flyover ke paas drop kar dena,phone,hinglish
+09_yelahanka_quiet_english.wav,Yelahanka,Is there any market near Yelahanka,quiet,english
+10_banashankari_noisy_kannada.wav,Banashankari,Banashankari ge hogtidini,noisy,kannada
+11_hsr_layout_whispered_english.wav,HSR Layout,I am currently based in HSR Layout Sector 2,whispered,english
+12_btm_layout_rushed_hinglish.wav,BTM Layout,BTM Layout mein hi ghar hai mera,rushed,hinglish
+13_majestic_phone_hindi.wav,Majestic,Majestic bus station se pickup kar lena,phone,hindi
+14_silk_board_noisy_english.wav,Silk Board,Just take a look at the traffic at Silk Board,noisy,english
+15_bellandur_quiet_hinglish.wav,Bellandur,Bellandur lake ke side mein rehta hoon,quiet,hinglish
+16_sarjapur_whispered_hindi.wav,Sarjapur,Sarjapur Road thoda andar jaake,whispered,hindi
+17_kadugondanahalli_noisy_hindi.wav,Kadugondanahalli,Kadugondanahalli mein meri behen rehti hai,noisy,hindi
+18_kr_puram_phone_hinglish.wav,KR Puram,KR Puram railway station ke paas,phone,hinglish
+19_byatarayanapura_quiet_hindi.wav,Byatarayanapura,Byatarayanapura mein kaam karta hoon,quiet,hindi
+20_rajarajeshwarinagar_rushed_kannada.wav,Rajarajeshwarinagar,Rajarajeshwarinagar railway station hattira,rushed,kannada
