@@ -1,0 +1,11 @@
+dataset,model,wer_mean,cer_mean,latency_p50,n
+common_voice,deepgram_nova3,0.192,0.083,1.484,20
+common_voice,indicconformer,0.197,0.052,1.007,20
+common_voice,indicwav2vec,0.211,0.065,0.021,20
+common_voice,sarvam_saarika,0.14,0.05,0.66,20
+common_voice,whisper_large_v3,0.26,0.098,1.355,20
+kathbath,deepgram_nova3,0.21,0.072,1.288,20
+kathbath,indicconformer,0.055,0.01,1.055,20
+kathbath,indicwav2vec,0.12,0.023,0.021,20
+kathbath,sarvam_saarika,0.089,0.021,0.723,20
+kathbath,whisper_large_v3,0.169,0.049,1.863,20

@@ -1,0 +1,101 @@
+dataset,model,item,condition,language,reference,transcript,audio_seconds,latency_seconds,rtf,wer,cer,entity_matched,entity_score,entity_distance
+own,deepgram_nova3,Koramangala,quiet,hinglish,Haan bhaiya main Koramangala mein rehta hoon,हां भैया. मैं core मंगला में ही रहता हूं.,4.087,1.32,0.323,1.143,0.364,False,72,0.273
+own,deepgram_nova3,Indiranagar,noisy,hinglish,Indiranagar ke paas hi hai mera ghar,इंदिरा नगर के पास ही है मेरा घर.,3.669,1.39,0.379,0.571,0.167,True,81,0.182
+own,deepgram_nova3,Whitefield,phone,english,Yeah I stay in Whitefield near the metro,"Yeah, I stay in Whitefield near the metro.",4.481,1.375,0.307,0.0,0.0,True,100,0.0
+own,deepgram_nova3,Electronic City,quiet,hinglish,Electronic City Phase 1 mein job karta hoon,Electronic city phase 1 में job करता हूँ.,5.016,1.29,0.257,0.5,0.116,True,100,0.0
+own,deepgram_nova3,Marathahalli,rushed,hinglish, Marathahalli bus stop ke paas,मराठा अल्ली bus stop के पास आ जाओ.,4.923,1.641,0.333,1.0,0.276,True,91,0.083
+own,deepgram_nova3,Jayanagar,quiet,kannada,Naanu Jayanagar alli iddini,नानू जया नगर अली इत्दिनी.,4.737,1.329,0.281,1.25,0.185,True,88,0.111
+own,deepgram_nova3,Rajajinagar,noisy,hindi,Rajajinagar mein mera ek dost rehta hai,राजा जी नगर में मेरा एक दोस्त रहता है.,4.458,1.304,0.292,1.0,0.231,True,81,0.182
+own,deepgram_nova3,Hebbal,phone,hinglish,Hebbal flyover ke paas drop kar dena,Hibble flower के पास drop कर देना.,4.969,1.467,0.295,0.571,0.222,False,72,0.273
+own,deepgram_nova3,Yelahanka,quiet,english,Is there any market near Yelahanka,Is there any market near Yelahanka?,4.76,1.509,0.317,0.0,0.0,True,100,0.0
+own,deepgram_nova3,Banashankari,noisy,kannada,Banashankari ge hogtidini,बना शंकरी गए होकरी में.,5.457,1.58,0.29,1.667,0.4,True,83,0.167
+own,deepgram_nova3,HSR Layout,whispered,english,I am currently based in HSR Layout Sector 2,I am currently based in HCSR Layout Sector 2.,5.735,1.78,0.31,0.111,0.023,True,90,0.1
+own,deepgram_nova3,BTM Layout,rushed,hinglish,BTM Layout mein hi ghar hai mera,BTM layout में ही घर है मेरा.,4.133,1.708,0.413,0.286,0.094,True,100,0.0
+own,deepgram_nova3,Majestic,phone,hindi,Majestic bus station se pickup kar lena,Majestic bus station से मुझे ले चलो.,4.923,1.313,0.267,0.429,0.359,True,100,0.0
+own,deepgram_nova3,Silk Board,noisy,english,Just take a look at the traffic at Silk Board,Just take a look at the traffic at Silk Road.,3.506,1.796,0.512,0.1,0.044,True,84,0.158
+own,deepgram_nova3,Bellandur,quiet,hinglish,Bellandur lake ke side mein rehta hoon,बेलंदूर lake के side में रहता हूं.,5.201,1.643,0.316,0.571,0.263,True,82,0.176
+own,deepgram_nova3,Sarjapur,whispered,hindi,Sarjapur Road thoda andar jaake,सर्जापुर road तोड़ा अंदर जाकर.,4.481,1.391,0.31,1.0,0.258,True,100,0.0
+own,deepgram_nova3,Kadugondanahalli,noisy,hindi,Kadugondanahalli mein meri behen rehti hai,कद्दू वर्णा ना हाल्ली में मेरी बहन रहती है.,3.413,1.532,0.449,1.167,0.357,False,62,0.375
+own,deepgram_nova3,KR Puram,phone,hinglish,KR Puram railway station ke paas,KR पुरम railway station के पास खड़ा हो.,5.759,1.419,0.246,0.833,0.375,True,100,0.0
+own,deepgram_nova3,Byatarayanapura,quiet,hindi,Byatarayanapura mein kaam karta hoon,ब्यात आरायनपुरा में काम करता हूँ.,4.667,1.957,0.419,1.4,0.25,True,86,0.133
+own,deepgram_nova3,Rajarajeshwarinagar,rushed,kannada,Rajarajeshwarinagar railway station hattira,राज राजेश्वरी नगर railway station आती रहा.,3.413,1.761,0.516,1.25,0.209,True,84,0.158
+own,sarvam_saarika,Koramangala,quiet,hinglish,Haan bhaiya main Koramangala mein rehta hoon,हाँ भैया मैं कोर मंगला में ही रहता हूँ,4.087,0.642,0.157,1.429,0.273,True,81,0.182
+own,sarvam_saarika,Indiranagar,noisy,hinglish,Indiranagar ke paas hi hai mera ghar,इंदिरा नगर के पास ही है मेरा घर।,3.669,0.68,0.185,0.571,0.167,True,81,0.182
+own,sarvam_saarika,Whitefield,phone,english,Yeah I stay in Whitefield near the metro,"Yeah, I stay in Whitefield near the Metro.",4.481,0.62,0.138,0.0,0.0,True,100,0.0
+own,sarvam_saarika,Electronic City,quiet,hinglish,Electronic City Phase 1 mein job karta hoon,इलेक्ट्रॉनिक सिटी फ़ेज़ वन में जॉब करता हूँ,5.016,0.693,0.138,1.375,0.558,False,60,0.4
+own,sarvam_saarika,Marathahalli,rushed,hinglish, Marathahalli bus stop ke paas,मराठा अली बस स्टॉप के पास आ जाओ,4.923,0.612,0.124,1.6,0.483,True,86,0.13
+own,sarvam_saarika,Jayanagar,quiet,kannada,Naanu Jayanagar alli iddini,ನಾನು ಜಯನಗರ್ ಅಲ್ಲಿ ಇದ್ದೀನಿ,4.737,0.583,0.123,0.25,0.037,True,100,0.0
+own,sarvam_saarika,Rajajinagar,noisy,hindi,Rajajinagar mein mera ek dost rehta hai,राजाजी नगर में मेरा एक दोस्त रहता है।,4.458,0.647,0.145,0.857,0.205,True,90,0.091
+own,sarvam_saarika,Hebbal,phone,hinglish,Hebbal flyover ke paas drop kar dena,हिप्पल फ्लाईओवर के पास ड्रॉप कर देना।,4.969,0.742,0.149,0.857,0.444,False,50,0.5
+own,sarvam_saarika,Yelahanka,quiet,english,Is there any market near Yelahanka,Is there any market near Yelahanka?,4.76,0.63,0.132,0.0,0.0,True,100,0.0
+own,sarvam_saarika,Banashankari,noisy,kannada,Banashankari ge hogtidini,ಬನಶಂಕರಿಗೆ ಹೋಗ್ತಿದ್ದೀನಿ.,5.457,0.572,0.105,1.0,0.16,True,91,0.083
+own,sarvam_saarika,HSR Layout,whispered,english,I am currently based in HSR Layout Sector 2,I am currently based in HSR Layout Sector Two.,5.735,0.669,0.117,0.111,0.07,True,100,0.0
+own,sarvam_saarika,BTM Layout,rushed,hinglish,BTM Layout mein hi ghar hai mera,अरे बेटी एम लेआउट में ही घर है मेरा।,4.133,0.627,0.152,0.857,0.5,False,60,0.4
+own,sarvam_saarika,Majestic,phone,hindi,Majestic bus station se pickup kar lena,मैजेस्टिक बस स्टेशन से मुझे ले चलो,4.923,0.633,0.129,0.857,0.615,True,87,0.125
+own,sarvam_saarika,Silk Board,noisy,english,Just take a look at the traffic at Silk Board,Just take a look at the traffic at Silk Board.,3.506,0.623,0.178,0.0,0.0,True,100,0.0
+own,sarvam_saarika,Bellandur,quiet,hinglish,Bellandur lake ke side mein rehta hoon,बेलंदूर लेक के साइड में रहता हूं।,5.201,0.591,0.114,0.857,0.368,True,82,0.176
+own,sarvam_saarika,Sarjapur,whispered,hindi,Sarjapur Road thoda andar jaake,सरजापुर रोड थोड़ा अंदर जाके,4.481,0.623,0.139,1.2,0.258,True,87,0.125
+own,sarvam_saarika,Kadugondanahalli,noisy,hindi,Kadugondanahalli mein meri behen rehti hai,कद्दू कद्दूकुंडा ना हल्ली में मेरी बहन रहती है।,3.413,0.689,0.202,1.167,0.452,False,68,0.312
+own,sarvam_saarika,KR Puram,phone,hinglish,KR Puram railway station ke paas,केआरपुरम रेलवे स्टेशन के पास खड़ा हो,5.759,0.644,0.112,1.333,0.781,False,75,0.25
+own,sarvam_saarika,Byatarayanapura,quiet,hindi,Byatarayanapura mein kaam karta hoon,व्यातारायणपुरा में काम करता हूँ,4.667,0.705,0.151,1.2,0.222,True,93,0.067
+own,sarvam_saarika,Rajarajeshwarinagar,rushed,kannada,Rajarajeshwarinagar railway station hattira,ರಾಜರಾಜೇಶ್ವರಿ ನಗರ ರೈಲ್ವೆ ಸ್ಟೇಷನ್ ಹತ್ತಿರ.,3.413,0.618,0.181,1.0,0.233,True,89,0.105
+own,whisper_large_v3,Koramangala,quiet,hinglish,Haan bhaiya main Koramangala mein rehta hoon,हाँ भाईया मैं कोर मंगला में ही रहता हूँ,4.087,1.938,0.474,1.429,0.273,True,81,0.182
+own,whisper_large_v3,Indiranagar,noisy,hinglish,Indiranagar ke paas hi hai mera ghar,कि निरा नगर के पास ही है मेरा घर,3.669,1.024,0.279,0.714,0.222,True,81,0.182
+own,whisper_large_v3,Whitefield,phone,english,Yeah I stay in Whitefield near the metro,"Yeah, I stay in Whitefield near the metro.",4.481,0.766,0.171,0.0,0.0,True,100,0.0
+own,whisper_large_v3,Electronic City,quiet,hinglish,Electronic City Phase 1 mein job karta hoon,इलेक्ट्रोनिक सिटी फेज वन में जॉब करता हूँ,5.016,1.285,0.256,1.25,0.488,False,66,0.333
+own,whisper_large_v3,Marathahalli,rushed,hinglish, Marathahalli bus stop ke paas,मराथा ली बस्टॉप के पास आ जाओ,4.923,5.677,1.153,1.4,0.552,True,81,0.182
+own,whisper_large_v3,Jayanagar,quiet,kannada,Naanu Jayanagar alli iddini,ನಾನು ಜೈಯನಗರ್ ಅಲೇದ್ದಿನಿ,4.737,1.155,0.244,1.0,0.222,True,88,0.111
+own,whisper_large_v3,Rajajinagar,noisy,hindi,Rajajinagar mein mera ek dost rehta hai,राजाजी नगर में मेरा एक दोस्त रहता है,4.458,1.237,0.277,0.857,0.205,True,90,0.091
+own,whisper_large_v3,Hebbal,phone,hinglish,Hebbal flyover ke paas drop kar dena,हिबल फ्लाइवर के पास ड्रॉप कर देना,4.969,1.124,0.226,0.857,0.417,False,72,0.273
+own,whisper_large_v3,Yelahanka,quiet,english,Is there any market near Yelahanka,Is there any market near Yelahanka?,4.76,0.758,0.159,0.0,0.0,True,100,0.0
+own,whisper_large_v3,Banashankari,noisy,kannada,Banashankari ge hogtidini,ಬನ ಶಂಕರಿಗೆ ಹೋಕ್ತಿದಿನಿ,5.457,1.171,0.215,1.0,0.2,True,83,0.167
+own,whisper_large_v3,HSR Layout,whispered,english,I am currently based in HSR Layout Sector 2,I am currently based in HSR Layout Sector 2,5.735,0.778,0.136,0.0,0.0,True,100,0.0
+own,whisper_large_v3,BTM Layout,rushed,hinglish,BTM Layout mein hi ghar hai mera,बीटीएम लेयाउट में ही घर है मेरा,4.133,1.107,0.268,0.571,0.312,False,60,0.4
+own,whisper_large_v3,Majestic,phone,hindi,Majestic bus station se pickup kar lena,मैजेस्टिक बस स्टेशन से मुझे ले चलो,4.923,1.284,0.261,0.857,0.615,True,87,0.125
+own,whisper_large_v3,Silk Board,noisy,english,Just take a look at the traffic at Silk Board,Just take a look at the traffic at Silk Road.,3.506,0.945,0.27,0.1,0.044,True,84,0.158
+own,whisper_large_v3,Bellandur,quiet,hinglish,Bellandur lake ke side mein rehta hoon,बेलंदूर लेक के साइड में रहता हूँ,5.201,1.225,0.236,1.0,0.342,True,82,0.176
+own,whisper_large_v3,Sarjapur,whispered,hindi,Sarjapur Road thoda andar jaake,सरजापूर रोड तोड़ा अंदर जाके,4.481,1.132,0.253,1.2,0.29,True,87,0.125
+own,whisper_large_v3,Kadugondanahalli,noisy,hindi,Kadugondanahalli mein meri behen rehti hai,कद्दूगोण्डा ना अल्ले मेरी बेहन रहती है,3.413,1.221,0.358,0.833,0.286,True,81,0.188
+own,whisper_large_v3,KR Puram,phone,hinglish,KR Puram railway station ke paas,के आरपुरम रेल्वे स्टेशन के पास खड़ा हूँ,5.759,1.285,0.223,1.5,0.875,False,75,0.25
+own,whisper_large_v3,Byatarayanapura,quiet,hindi,Byatarayanapura mein kaam karta hoon,व्यातारायन पुरा में काम करता हूँ,4.667,1.105,0.237,1.4,0.25,True,93,0.067
+own,whisper_large_v3,Rajarajeshwarinagar,rushed,kannada,Rajarajeshwarinagar railway station hattira,ರಾಜ ರಾಜೇಶ್ವರಿ ನಗರ್ ರೇಲ್ವೇ ಸ್ಟೇಶನ್ ಅತ್ತಿರಾ,3.413,1.6,0.469,1.5,0.302,True,84,0.158
+own,indicconformer,Koramangala,quiet,hinglish,Haan bhaiya main Koramangala mein rehta hoon,हाँ भैया मैं कोर मंगला में ही रहता हूँ,4.087,3.514,0.86,1.429,0.273,True,81,0.182
+own,indicconformer,Indiranagar,noisy,hinglish,Indiranagar ke paas hi hai mera ghar,इंदिराानगर के पास ही है मेरा घर,3.669,1.131,0.308,0.429,0.167,True,81,0.182
+own,indicconformer,Whitefield,phone,english,Yeah I stay in Whitefield near the metro,या आई स्टे इन व्हाइट फील्ड नियर द मेट्रो,4.481,1.279,0.285,1.0,0.5,False,50,0.5
+own,indicconformer,Electronic City,quiet,hinglish,Electronic City Phase 1 mein job karta hoon,इलेक्ट्रॉानिक सिटी फेज़ वन में जॉब करता हूं,5.016,1.605,0.32,1.25,0.581,False,53,0.467
+own,indicconformer,Marathahalli,rushed,hinglish, Marathahalli bus stop ke paas,मराथा ह्ली बस स्टॉप के पास आ जाओ,4.923,1.158,0.235,1.6,0.517,True,86,0.13
+own,indicconformer,Jayanagar,quiet,kannada,Naanu Jayanagar alli iddini,ನಾನು ಜಯಾನಗರ್ ಅಲಿ ಇದ್ದಿನಿ,4.737,1.107,0.234,0.5,0.074,True,100,0.0
+own,indicconformer,Rajajinagar,noisy,hindi,Rajajinagar mein mera ek dost rehta hai,राजाजी नगर में मेरा एक दोस्त रहता है,4.458,1.339,0.3,0.857,0.205,True,90,0.091
+own,indicconformer,Hebbal,phone,hinglish,Hebbal flyover ke paas drop kar dena,हिब्बल फ्लाईओवर के पास ड्रॉप कर देना,4.969,1.567,0.315,0.857,0.389,True,83,0.167
+own,indicconformer,Yelahanka,quiet,english,Is there any market near Yelahanka,इजदेरनी मार्केट नियर यलाहंका,4.76,1.502,0.316,1.0,0.382,False,77,0.222
+own,indicconformer,Banashankari,noisy,kannada,Banashankari ge hogtidini,ಬನಶಂಕರಿಗೆ ಹೋಗ್ತಿದ್ದೀನಿ,5.457,1.348,0.247,1.0,0.16,True,91,0.083
+own,indicconformer,HSR Layout,whispered,english,I am currently based in HSR Layout Sector 2,अएम करेंटली बेस्ड इन ए जसर लेआउट सेेंक्टर टू,5.735,1.369,0.239,1.0,0.721,False,70,0.3
+own,indicconformer,BTM Layout,rushed,hinglish,BTM Layout mein hi ghar hai mera,बीटीएम लेआउट में ही घर है मेरा,4.133,0.986,0.239,0.571,0.344,False,60,0.4
+own,indicconformer,Majestic,phone,hindi,Majestic bus station se pickup kar lena,मेजेस्टिक बस स्टेशन से मुझे ले चलो,4.923,1.139,0.231,0.857,0.615,True,80,0.2
+own,indicconformer,Silk Board,noisy,english,Just take a look at the traffic at Silk Board,जस्ट टेक अ लुक एट द ट्रैफिक एट सिल्क बोर्ड,3.506,0.844,0.241,0.9,0.489,True,90,0.1
+own,indicconformer,Bellandur,quiet,hinglish,Bellandur lake ke side mein rehta hoon,बेलंदूर लेक के साइड में रहता हूं,5.201,1.261,0.242,0.857,0.368,True,82,0.176
+own,indicconformer,Sarjapur,whispered,hindi,Sarjapur Road thoda andar jaake,सरजापुर रोड थोड़ा अंदर जाके,4.481,1.037,0.231,1.2,0.258,True,87,0.125
+own,indicconformer,Kadugondanahalli,noisy,hindi,Kadugondanahalli mein meri behen rehti hai,कद्दूगोंडा ना हल्ली में मेरी ब्रैड रहती है,3.413,0.853,0.25,1.0,0.31,True,81,0.188
+own,indicconformer,KR Puram,phone,hinglish,KR Puram railway station ke paas,केआारपुरम रेलवे स्टेशन के पास खड़ा हु,5.759,1.508,0.262,1.333,0.812,False,75,0.25
+own,indicconformer,Byatarayanapura,quiet,hindi,Byatarayanapura mein kaam karta hoon,ब्या तारायनपुरा में काम करता हू,4.667,1.532,0.328,1.2,0.25,True,93,0.067
+own,indicconformer,Rajarajeshwarinagar,rushed,kannada,Rajarajeshwarinagar railway station hattira,ರಾಜರಾಜೇಶ್ವರಿ ನಗರ ರೇಲ್ವೆ ಸ್ಟೇೇಶನ್ ಹತ್ತಿರ,3.413,1.192,0.349,1.0,0.302,True,89,0.105
+own,indicwav2vec,Koramangala,quiet,hinglish,Haan bhaiya main Koramangala mein rehta hoon,हां भैया मैं कोर मंगला में ही रहता हूं,4.087,1.045,0.256,1.143,0.318,True,81,0.182
+own,indicwav2vec,Indiranagar,noisy,hinglish,Indiranagar ke paas hi hai mera ghar,इमेरा नगर के पास मेरा घर,3.669,0.041,0.011,0.857,0.361,False,72,0.273
+own,indicwav2vec,Whitefield,phone,english,Yeah I stay in Whitefield near the metro,यह आसटे इन वाइट फील्ड नियर दमेटो,4.481,0.045,0.01,1.0,0.6,False,50,0.5
+own,indicwav2vec,Electronic City,quiet,hinglish,Electronic City Phase 1 mein job karta hoon,इलेक्ट्रॉनिक सिटी फेस वन में जॉब करता हूं,5.016,0.045,0.009,1.25,0.535,False,60,0.4
+own,indicwav2vec,Marathahalli,rushed,hinglish, Marathahalli bus stop ke paas,मरा था लेबर स्टॉप के पास आ जाओ,4.923,0.043,0.009,1.6,0.655,False,72,0.273
+own,indicwav2vec,Jayanagar,quiet,kannada,Naanu Jayanagar alli iddini,नानो जयानगर अलीद दिन,4.737,0.039,0.008,1.0,0.296,True,100,0.0
+own,indicwav2vec,Rajajinagar,noisy,hindi,Rajajinagar mein mera ek dost rehta hai,राजाजी नगर में मेरा एक दोस रहता है,4.458,0.025,0.006,0.857,0.205,True,90,0.091
+own,indicwav2vec,Hebbal,phone,hinglish,Hebbal flyover ke paas drop kar dena,हिबल फ्लाइवर के पास ड्रॉप कर देना,4.969,0.024,0.005,0.857,0.417,False,72,0.273
+own,indicwav2vec,Yelahanka,quiet,english,Is there any market near Yelahanka,इस देरएनी मार्केट नियर यलाहंका,4.76,0.024,0.005,1.0,0.382,False,77,0.222
+own,indicwav2vec,Banashankari,noisy,kannada,Banashankari ge hogtidini,वना शंकरी गे ोपीवी ने,5.457,0.028,0.005,1.333,0.36,True,83,0.167
+own,indicwav2vec,HSR Layout,whispered,english,I am currently based in HSR Layout Sector 2,ेसाले र सटरटो,5.735,0.03,0.005,1.0,0.767,False,44,0.556
+own,indicwav2vec,BTM Layout,rushed,hinglish,BTM Layout mein hi ghar hai mera,बेटीएम लेआउट में ही घर है मेरा,4.133,0.025,0.006,0.571,0.344,False,60,0.4
+own,indicwav2vec,Majestic,phone,hindi,Majestic bus station se pickup kar lena,मैजिस्टिक पर स्टेशन से मुझे ले चलो,4.923,0.024,0.005,0.857,0.692,False,75,0.25
+own,indicwav2vec,Silk Board,noisy,english,Just take a look at the traffic at Silk Board,जस्ट ेक लुक एट द ग्राफिक एट सिल्क बोर्ड,3.506,0.023,0.007,1.0,0.511,True,90,0.1
+own,indicwav2vec,Bellandur,quiet,hinglish,Bellandur lake ke side mein rehta hoon,बैलंदूर ले के साइड में रहता हूँ,5.201,0.028,0.005,1.0,0.368,False,66,0.333
+own,indicwav2vec,Sarjapur,whispered,hindi,Sarjapur Road thoda andar jaake,सरजा पर रोड थोड़ा धर्जाके,4.481,0.024,0.005,1.2,0.387,False,75,0.25
+own,indicwav2vec,Kadugondanahalli,noisy,hindi,Kadugondanahalli mein meri behen rehti hai,कादूो कादूवरना ना हल्ली में मेरी बहन रहती है,3.413,0.023,0.007,1.167,0.452,False,62,0.375
+own,indicwav2vec,KR Puram,phone,hinglish,KR Puram railway station ke paas,केयारपोरम रेलवे स्टेशन के पास खड़ा हो,5.759,0.028,0.005,1.333,0.844,False,62,0.375
+own,indicwav2vec,Byatarayanapura,quiet,hindi,Byatarayanapura mein kaam karta hoon,ब्यातारायन पुरा में काम करता हूं,4.667,0.026,0.006,1.2,0.25,True,93,0.067
+own,indicwav2vec,Rajarajeshwarinagar,rushed,kannada,Rajarajeshwarinagar railway station hattira,राजा राजेश्वरी नगर रेलवे स्टेशन आती रहा,3.413,0.021,0.006,1.75,0.442,True,84,0.158

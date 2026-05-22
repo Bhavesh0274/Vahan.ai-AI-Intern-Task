@@ -1,0 +1,6 @@
+model,entity_accuracy,wer_mean,cer_mean,latency_p50,n
+deepgram_nova3,0.85,0.742,0.21,1.488,20
+whisper_large_v3,0.8,0.873,0.295,1.163,20
+sarvam_saarika,0.75,0.826,0.291,0.632,20
+indicconformer,0.7,0.992,0.386,1.27,20
+indicwav2vec,0.35,1.099,0.459,0.027,20

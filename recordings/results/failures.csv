@@ -1,0 +1,32 @@
+model,item,condition,language,transcript,entity_score
+indicwav2vec,HSR Layout,whispered,english,ेसाले र सटरटो,44
+sarvam_saarika,Hebbal,phone,hinglish,हिप्पल फ्लाईओवर के पास ड्रॉप कर देना।,50
+indicwav2vec,Whitefield,phone,english,यह आसटे इन वाइट फील्ड नियर दमेटो,50
+indicconformer,Whitefield,phone,english,या आई स्टे इन व्हाइट फील्ड नियर द मेट्रो,50
+indicconformer,Electronic City,quiet,hinglish,इलेक्ट्रॉानिक सिटी फेज़ वन में जॉब करता हूं,53
+whisper_large_v3,BTM Layout,rushed,hinglish,बीटीएम लेयाउट में ही घर है मेरा,60
+sarvam_saarika,BTM Layout,rushed,hinglish,अरे बेटी एम लेआउट में ही घर है मेरा।,60
+sarvam_saarika,Electronic City,quiet,hinglish,इलेक्ट्रॉनिक सिटी फ़ेज़ वन में जॉब करता हूँ,60
+indicconformer,BTM Layout,rushed,hinglish,बीटीएम लेआउट में ही घर है मेरा,60
+indicwav2vec,Electronic City,quiet,hinglish,इलेक्ट्रॉनिक सिटी फेस वन में जॉब करता हूं,60
+indicwav2vec,BTM Layout,rushed,hinglish,बेटीएम लेआउट में ही घर है मेरा,60
+indicwav2vec,KR Puram,phone,hinglish,केयारपोरम रेलवे स्टेशन के पास खड़ा हो,62
+deepgram_nova3,Kadugondanahalli,noisy,hindi,कद्दू वर्णा ना हाल्ली में मेरी बहन रहती है.,62
+indicwav2vec,Kadugondanahalli,noisy,hindi,कादूो कादूवरना ना हल्ली में मेरी बहन रहती है,62
+indicwav2vec,Bellandur,quiet,hinglish,बैलंदूर ले के साइड में रहता हूँ,66
+whisper_large_v3,Electronic City,quiet,hinglish,इलेक्ट्रोनिक सिटी फेज वन में जॉब करता हूँ,66
+sarvam_saarika,Kadugondanahalli,noisy,hindi,कद्दू कद्दूकुंडा ना हल्ली में मेरी बहन रहती है।,68
+indicconformer,HSR Layout,whispered,english,अएम करेंटली बेस्ड इन ए जसर लेआउट सेेंक्टर टू,70
+indicwav2vec,Indiranagar,noisy,hinglish,इमेरा नगर के पास मेरा घर,72
+indicwav2vec,Hebbal,phone,hinglish,हिबल फ्लाइवर के पास ड्रॉप कर देना,72
+deepgram_nova3,Koramangala,quiet,hinglish,हां भैया. मैं core मंगला में ही रहता हूं.,72
+deepgram_nova3,Hebbal,phone,hinglish,Hibble flower के पास drop कर देना.,72
+indicwav2vec,Marathahalli,rushed,hinglish,मरा था लेबर स्टॉप के पास आ जाओ,72
+whisper_large_v3,Hebbal,phone,hinglish,हिबल फ्लाइवर के पास ड्रॉप कर देना,72
+indicwav2vec,Sarjapur,whispered,hindi,सरजा पर रोड थोड़ा धर्जाके,75
+whisper_large_v3,KR Puram,phone,hinglish,के आरपुरम रेल्वे स्टेशन के पास खड़ा हूँ,75
+sarvam_saarika,KR Puram,phone,hinglish,केआरपुरम रेलवे स्टेशन के पास खड़ा हो,75
+indicconformer,KR Puram,phone,hinglish,केआारपुरम रेलवे स्टेशन के पास खड़ा हु,75
+indicwav2vec,Majestic,phone,hindi,मैजिस्टिक पर स्टेशन से मुझे ले चलो,75
+indicconformer,Yelahanka,quiet,english,इजदेरनी मार्केट नियर यलाहंका,77
+indicwav2vec,Yelahanka,quiet,english,इस देरएनी मार्केट नियर यलाहंका,77
